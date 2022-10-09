@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/y5jq1i5x679fkf6q?svg=true)](https://ci.appveyor.com/project/Vinarskaya/4-1-selenide-qj4ds)
+[![Build status](https://ci.appveyor.com/api/projects/status/p07dhvdicbf5005r?svg=true)](https://ci.appveyor.com/project/Vinarskaya/5-patterns)
